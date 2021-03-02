@@ -1,0 +1,6 @@
+print('hello', end=' ')
+print('hii', end='; ')
+print('there', end='_ ')
+print('rahul', end='= ')
+print('sumit', end=', ')
+print('ankur', end='. ')

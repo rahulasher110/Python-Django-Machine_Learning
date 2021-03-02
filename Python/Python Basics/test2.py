@@ -1,0 +1,5 @@
+print('hello', end='')
+print('anc', end='')
+print('rahul', end=' ')
+print('sumit', end=' ')
+print('ankur', end=' ')

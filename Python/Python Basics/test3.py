@@ -1,0 +1,7 @@
+print('hello', end='; ')
+print('hii', end='; ')
+print('here', end='; ')
+print('is', end='; ')
+print('rahul', end='; ')
+print('sumit', end='; ')
+print('ankur', end='; ')
