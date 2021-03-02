@@ -1,0 +1,5 @@
+print(type('abc'), 'abc')
+print(type('123'), '123')
+print(type("124"), "133")
+print(type("True"), "True")
+print(type("5.4"), "5.4")
